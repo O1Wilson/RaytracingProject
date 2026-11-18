@@ -48,3 +48,7 @@ Pictures
 ![Large Scene](images/LargeScene.jpg)
 
 *Large Scene with each sphere containing a randomly assigned material.*
+
+![Motion Blur](images/motionblur.jpg)
+
+* Scene containing bouncing spheres with a simulated motion blur effect.*
